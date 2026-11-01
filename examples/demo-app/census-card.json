@@ -1,0 +1,9 @@
+{
+  "product": "Demo task app",
+  "source": "en",
+  "glossary": { "workspace": ["folder", "space"], "project": ["board"] },
+  "case_policy": { "title": "sentence", "button": "sentence", "label": "sentence" },
+  "slots": { "button": 24, "project.share_link": 20 },
+  "same_in_all_locales": ["OK"],
+  "next_step_words": []
+}

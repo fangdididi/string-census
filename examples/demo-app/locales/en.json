@@ -1,0 +1,25 @@
+{
+  "nav": { "projects_title": "Your Projects", "settings_title": "Settings" },
+  "project": {
+    "new_button": "New project",
+    "delete_button": "Delete project",
+    "delete_confirm": "Are you sure?",
+    "delete_confirm_yes_button": "Yes",
+    "archived_toast": "Project archived successfully",
+    "count": "{count, plural, one {# project} other {# projects}}",
+    "files_label": "{count} file(s)",
+    "owner_label": "Owned by {name}",
+    "empty": "No projects yet. Create one to keep tasks and files together.",
+    "share_link": "Click here"
+  },
+  "errors": {
+    "save_error": "Oops! Something went wrong.",
+    "upload_error": "Upload failed. Check your connection and try again.",
+    "name_error": "That name is too short."
+  },
+  "settings": {
+    "receipts_toggle": "Don't send read receipts",
+    "email_placeholder": "Enter your email"
+  },
+  "billing": { "plan_title": "Workspace plan", "seats_label": "Seats in your folder" }
+}

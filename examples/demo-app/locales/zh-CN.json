@@ -1,0 +1,25 @@
+{
+  "nav": { "projects_title": "你的项目", "settings_title": "设置" },
+  "project": {
+    "new_button": "新建项目",
+    "delete_button": "删除项目",
+    "delete_confirm": "确定吗？",
+    "delete_confirm_yes_button": "是",
+    "archived_toast": "项目已成功归档",
+    "count": "{count, plural, other {# 个项目}}",
+    "files_label": "{count} 个文件",
+    "owner_label": "所有者：{name}",
+    "empty": "还没有项目。创建一个项目，把任务和文件放在一起。",
+    "share_link": "点击这里"
+  },
+  "errors": {
+    "save_error": "哎呀！出错了。",
+    "upload_error": "上传失败。请检查网络后重试。",
+    "name_error": "名称太短。"
+  },
+  "settings": {
+    "receipts_toggle": "不发送已读回执",
+    "email_placeholder": ""
+  },
+  "billing": { "plan_title": "工作区套餐", "seats_label": "文件夹中的席位" }
+}

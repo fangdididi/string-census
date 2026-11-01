@@ -1,0 +1,25 @@
+{
+  "nav": { "projects_title": "Deine Projekte", "settings_title": "Einstellungen" },
+  "project": {
+    "new_button": "Neues Projekt",
+    "delete_button": "Projekt dauerhaft und unwiderruflich löschen",
+    "delete_confirm": "Bist du sicher?",
+    "delete_confirm_yes_button": "Ja",
+    "archived_toast": "Projekt archiviert",
+    "count": "{count, plural, one {# Projekt}}",
+    "files_label": "{count} Datei(en)",
+    "owner_label": "Gehört {owner}",
+    "empty": "Noch keine Projekte. Erstelle eines, um Aufgaben und Dateien zusammenzuhalten.",
+    "share_link": "Hier klicken"
+  },
+  "errors": {
+    "save_error": "Ups! Etwas ist schiefgelaufen.",
+    "upload_error": "Upload failed. Check your connection and try again.",
+    "name_error": "Dieser Name ist zu kurz."
+  },
+  "settings": {
+    "receipts_toggle": "Keine Lesebestätigungen senden"
+  },
+  "billing": { "plan_title": "Workspace-Tarif", "seats_label": "Plätze im Ordner" },
+  "legacy": { "old_banner": "Alte Version" }
+}
